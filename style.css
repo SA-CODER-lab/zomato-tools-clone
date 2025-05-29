@@ -1,0 +1,48 @@
+.banner{
+    background-image: url("./ban.jpg");
+    height: 570px;
+    background-size: cover;
+}
+.container-fluid{
+    position: absolute;
+    bottom: 530px;
+    
+}
+.nav-link{
+    color: azure;
+    margin-right: 50px;
+}
+.nav-link:hover{
+    color: orange;
+}
+.img-name {
+    position: absolute;
+    bottom: 390px;
+     left: 500px;
+}
+.text-places{
+    position: absolute;
+    bottom: 300px;
+    left:300px ;
+    color: azure;
+}
+.search-box{
+    position: absolute;
+    bottom:210px ;
+    left:450px ;
+    width: 600px;
+}
+.card-img-top{
+    height: 200px;
+}
+.card:hover{
+    transform: scale(105%);
+    transition: 0.4s;
+}
+.card-msg{
+    position: absolute;
+    top: 150px;
+}
+
+ 
+
